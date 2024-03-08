@@ -146,7 +146,7 @@ export default function App() {
       </div>
       <hr/>
       <div className="text-l font-light pl-7 pt-7 bg-slate-100 w-full p-5 bg-opacity-90 self-end text-end">
-      <input className="p-2 bg-[#54d8cb] text-white bg-opacity-40 font-normal px-4 rounded my-2 mx-1"  type="submit" />
+      <input className="p-2 bg-[#54d8cb] hover:bg-[#509d96] ease-in duration-100 text-white bg-opacity-40 font-normal px-4 rounded my-2 mx-1"  type="submit" />
       </div>
     </form>
   );
